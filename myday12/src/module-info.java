@@ -1,0 +1,2 @@
+module myday12 {
+}
